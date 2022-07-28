@@ -18,11 +18,11 @@ gridsearch: $(PROG)
 
 # clean
 clean:
-	rm -rf lib/* *.o *.mod $(PROG) *.bak
+	rm -rf lib/* *.o *.mod $(PROG) *.bak src/*.bak
 	clear
 
 cleanall:
-	rm -rf lib/ *.o *.mod $(PROG) *.bak AllModels.txt Misfits-m.txt
+	rm -rf lib/  *.o *.mod $(PROG) *.bak src/*.bak AllModels.txt Misfits-m.txt
 	clear
 
 
