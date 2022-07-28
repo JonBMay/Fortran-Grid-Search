@@ -52,4 +52,4 @@ To clean: make clean OR make cleanall
   
   
 ### Used in
-This program was modified for use in the creation of the ShellSet program (DOI:)
+This program was modified for use in ShellSet
