@@ -1,5 +1,6 @@
 # Fortran Grid Search
 This program is a simple serial grid search algorithm written in Fortran.
+The package is also avaiable at: https://zenodo.org/record/6940088, any use of this package from either source should be cited with the following DOI: 10.5281/zenodo.6940088
 
 ### Program explanation
 
