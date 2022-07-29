@@ -358,7 +358,7 @@ subroutine print_inst()
   print '(A)'  ,'Variable names are not currently used in the search algorithm but are present incase a'
   print '(A,/)','linked forward model requires them as input.'
 
-  print '(A)'  ,'The user should update the subroutine calls to "Example" inside "main.f90" at line 56 & 115'
+  print '(A)'  ,'The user should update the subroutine calls to "Example" inside "main.f90" at line 74 & 133'
   print '(A)'  ,'to link to their desired forward model or misfit calculator. This new subroutine can take'
   print '(A)'  ,'any input but must return the misfit values to the program (in a vector) where they are'
   print '(A)'  ,'stored and analysied in order to select the best cell(s) for the next level. The newly'
