@@ -53,6 +53,3 @@ To clean: make clean OR make cleanall
   
 ### Used in
 This program was modified for use in ShellSet  
-  
-### To cite
-https://doi.org/10.5281/zenodo.6940088
